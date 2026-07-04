@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deependrasingh1037
-- 👀 I’m interested in CP, ML and Web DEV
-- 🌱 I’m currently learning ML and Web DEV
+- 👀 I’m interested in CP, ML and Backend development
+- 🌱 I’m currently learning ML and Backend development
 - 💞️ I’m looking to collaborate on any project in above domains
 - 📫 How to reach me, my email id is deependrasingh1037@gmail.com
 
